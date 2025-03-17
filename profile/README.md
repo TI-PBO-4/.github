@@ -76,15 +76,13 @@ Plagiarisme adalah pelanggaran serius yang tidak akan ditoleransi. Berikut atura
 
 - **Dilarang keras menyalin kode dari repository lain tanpa izin dan referensi yang jelas!**
 - **Dilarang menyalin tugas dari teman atau repository lain dalam satu organisasi!**
-- **Jika ditemukan kode yang identik atau hampir sama, maka nilai akan otomatis menjadi ERROR dan ditolak!**
-- **Semua repository akan diperiksa menggunakan alat pendeteksi plagiarisme otomatis!**
+- **Jika ditemukan kode yang identik atau hampir sama, maka tugas akan otomatis menjadi ERROR dan ditolak!**
 - **Jika ada repository public yang terbukti digunakan untuk berbagi kode secara ilegal, pemiliknya akan diberikan sanksi berat!**
 
 🚨 **PERHATIAN!** Jika melanggar aturan ini, maka:
 
 1. **Nilai tugas akan otomatis ERROR dan tidak bisa diperbaiki!**
-2. **Repository akan diperiksa ulang oleh tim untuk investigasi lebih lanjut!**
-3. **Pelanggaran berulang akan berakibat pada tindakan lebih lanjut sesuai kebijakan organisasi!**
+2. **Pelanggaran berulang akan berakibat pada tindakan lebih lanjut sesuai kebijakan yang berlaku!**
 
 ---
 
