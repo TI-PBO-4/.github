@@ -21,10 +21,11 @@ Ikuti langkah-langkah berikut untuk membuat repository di dalam sebuah GitHub Or
    - Di halaman organisasi, klik tab `Repositories`.
    - Klik tombol hijau `New` di sebelah kanan atas.
    - Isi detail repository seperti:
-     - **Repository name**: Nama repository (pastikan sesuai dengan project kamu).
+     - **Format Nama REPOSITORY**: STAMBUK_NAMA.
      - **Description** (opsional): Deskripsi singkat tentang repository.
      - **Public/Private**: **Pilih opsi ************`Private`************!** Repository **wajib** bersifat private agar tidak bisa diakses sembarang orang.
    - Klik `Create repository` setelah selesai mengisi detail.
+   - ** ISI DALAM REPOSITORY AKAN DIPENUHI OLEH CODE LAPRAK 1 - SELESAI. USAHAKAN DALAM 1 REPOSITORY PISAHKAN PERFOLDER SETIAP LAPRAK. **
 4. **Inisialisasi Repository**:
    - Kamu bisa memilih untuk menambahkan file README, `.gitignore`, atau lisensi saat membuat repository, atau bisa menambahkannya nanti.
 
